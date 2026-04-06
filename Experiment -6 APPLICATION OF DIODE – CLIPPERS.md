@@ -12,12 +12,20 @@ To design and analyze diode clipper circuits
 
 # Circuit Diagram & Model Graph:
 
+![image 26](https://github.com/user-attachments/assets/0948e6f6-2e10-41da-8776-c154246f63c0)
+
 
 # Tabular Column and Calculation:
+
+![image 28](https://github.com/user-attachments/assets/3b071ea9-0bb4-4523-ad37-c2fa807c8b7c)
+
 
 
 # Graph:
 
+![image 27](https://github.com/user-attachments/assets/cfdc631d-9853-4905-b8b9-d342388ffa74)
+
 
  # Result:
  
+Thus the clippers operation was studied.
