@@ -27,17 +27,32 @@ above procedure is repeated for different IB constant values.
 Formula:
 
 <img width="517" height="124" alt="image" src="https://github.com/user-attachments/assets/216bfaf3-3ef4-4d12-b273-68da8dd770e6" />
+
+
 # Circuit Diagram and Model Graph:
 
+![image 5](https://github.com/user-attachments/assets/517ffa76-4283-4a40-96ad-24327eada9b3)
 
 
 # Tabular Column & Calculation:
 
+![image 6](https://github.com/user-attachments/assets/a8c3d3a1-9fd8-4bd7-93ce-026fc966cb7e)
+
+![image 7](https://github.com/user-attachments/assets/e91ab037-28f4-4e77-b349-fadf4e430e77)
+
 
 # Graph:
 
+![image 8](https://github.com/user-attachments/assets/1ccd2d04-d987-43da-a106-7b7df14da441)
+
+
+![image 9](https://github.com/user-attachments/assets/192b1908-2f89-4583-bbbe-c9973aa62149)
+
+
 
 # Result:
+
+![image 10](https://github.com/user-attachments/assets/6b0d34a4-9414-4291-b828-34fd4513d518)
 
 
 
